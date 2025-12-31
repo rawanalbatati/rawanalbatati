@@ -23,7 +23,7 @@ AI-powered application focused on palm tree detection, counting, and health asse
 - **Hope Clinic Website**  
   Dynamic website developed for a medical clinic, integrating frontend and backend components to manage content and present structured information.
 
-- **Kifa (Bartering System)**  
+- **Kifaa (Bartering System)**  
   web platform that enables users to exchange products and skills through structured listings and trade requests.
 
 - **AI Employment Trends Analysis**  
