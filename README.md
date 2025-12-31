@@ -9,7 +9,8 @@ This space is mainly used to document projects developed through coursework and 
 ## Projects
 
 - **SAAF (سعف)**  
-  AI-powered application for palm tree analysis and early disease detection using data-driven models and real-world inputs.
+**SAAF (سعف)**  
+AI-powered application focused on palm tree detection, counting, and health assessment using satellite data and machine learning techniques.
 
 - **DeepFake Image Detection**  
   Machine learning project focused on detecting AI-generated images through feature analysis and model evaluation.
@@ -18,7 +19,7 @@ This space is mainly used to document projects developed through coursework and 
   Data analysis project exploring patterns and factors influencing video game popularity using real-world datasets.
 
 - **Hope Clinic Website**  
-  Dynamic, full-stack website developed for a medical clinic, integrating frontend and backend components to manage content and present structured information.
+  Dynamic website developed for a medical clinic, integrating frontend and backend components to manage content and present structured information.
 
 - **Kifa (Bartering System)**  
   web platform that enables users to exchange products and skills through structured listings and trade requests, supported by backend logic and database management.
