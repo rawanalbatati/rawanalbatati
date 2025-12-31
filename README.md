@@ -5,7 +5,7 @@
 
 
 ## About Me
-IT student specializing in Data Science and Artificial Intelligence, with experience across machine learning, data analysis, web systems, and application-based projects.
+IT student specializing in Data Science and Artificial Intelligence.
 
 This space is mainly used to document projects developed through coursework and hands-on experimentation :)
 
