@@ -9,7 +9,6 @@ This space is mainly used to document projects developed through coursework and 
 ## Projects
 
 - **SAAF (سعف)**  
-**SAAF (سعف)**  
 AI-powered application focused on palm tree detection, counting, and health assessment using satellite data and machine learning techniques.
 
 - **DeepFake Image Detection**  
