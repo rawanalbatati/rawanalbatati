@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there 👋 I'm Rawan!
+
+
+## About Me
+IT student specializing in Data Science and Artificial Intelligence.
+
+## What You'll Find Here
+- Data Science and Machine Learning projects
+- Web-based platforms
+- Academic and practical work documented for learning and improvement
+
 
 <!--
 **rawanalbatati/rawanalbatati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
