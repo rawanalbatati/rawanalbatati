@@ -2,12 +2,30 @@
 
 
 ## About Me
-IT student specializing in Data Science and Artificial Intelligence.
+IT student specializing in Data Science and Artificial Intelligence, with experience across machine learning, data analysis, web systems, and application-based projects.
 
-## What You'll Find Here
-- Data Science and Machine Learning projects
-- Web-based platforms
-- Academic and practical work documented for learning and improvement
+This space is mainly used to document projects developed through coursework and hands-on experimentation :)
+
+## Projects
+
+- **SAAF (سعف)**  
+  AI-powered application for palm tree analysis and early disease detection using data-driven models and real-world inputs.
+
+- **DeepFake Image Detection**  
+  Machine learning project focused on detecting AI-generated images through feature analysis and model evaluation.
+
+- **Analyzing Popularity of Video Games**  
+  Data analysis project exploring patterns and factors influencing video game popularity using real-world datasets.
+
+- **Hope Clinic Website**  
+  Dynamic, full-stack website developed for a medical clinic, integrating frontend and backend components to manage content and present structured information.
+
+- **Kifa (Bartering System)**  
+  web platform that enables users to exchange products and skills through structured listings and trade requests, supported by backend logic and database management.
+
+- **AI Employment Trends Analysis**  
+  Data-driven analysis examining trends in AI-related employment using statistical analysis and data visualization techniques.
+
 
 
 <!--
