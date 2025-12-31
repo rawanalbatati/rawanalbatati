@@ -15,13 +15,13 @@ AI-powered application focused on palm tree detection, counting, and health asse
   Machine learning project focused on detecting AI-generated images through feature analysis and model evaluation.
 
 - **Analyzing Popularity of Video Games**  
-  Data analysis project exploring patterns and factors influencing video game popularity using real-world datasets.
+  Data analysis project exploring patterns and factors influencing video game popularity using YouTube Data API v3.
 
 - **Hope Clinic Website**  
   Dynamic website developed for a medical clinic, integrating frontend and backend components to manage content and present structured information.
 
 - **Kifa (Bartering System)**  
-  web platform that enables users to exchange products and skills through structured listings and trade requests, supported by backend logic and database management.
+  web platform that enables users to exchange products and skills through structured listings and trade requests.
 
 - **AI Employment Trends Analysis**  
   Data-driven analysis examining trends in AI-related employment using statistical analysis and data visualization techniques.
