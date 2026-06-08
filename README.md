@@ -28,6 +28,13 @@ AI-powered application focused on palm tree detection, counting, and health asse
 
 - **AI Employment Trends Analysis**  
   Data-driven analysis examining trends in AI-related employment using statistical analysis and data visualization techniques.
+  
+- **Health Misinformation Detection**
+  NLP project focused on detecting false health claims using exaggeration-aware features and machine learning models.
+
+- **Google Play Store Big Data Analytics**
+  Big data project analyzing app popularity using Apache Spark, RDD operations, Spark SQL, and regression modeling.
+
 
 
 
